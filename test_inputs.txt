@@ -1,0 +1,9 @@
+# Test Case 1 - Valid Input
+Pasta
+Red
+
+# Test Case 2 - Empty then Valid
+<empty>
+Ice Cream
+<empty>
+Yellow
